@@ -1,2 +1,2 @@
-# bb-singh-tuition
+# akash
 "Math tuition website with voice assistant"
